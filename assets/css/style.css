@@ -222,14 +222,14 @@ input[type=submit] {
     body {
       background: none;
         background-color: lightgreen;}
-       #logobox { 
+      .class logo {
         margin:auto;
         padding: 0px;
         float: none;
         display: block;
         width: auto;
         
-    }      
+    }     
      nav {   margin:auto;
       padding: 0px;
       float: none;
